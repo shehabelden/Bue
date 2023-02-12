@@ -13,7 +13,7 @@ class _CameraState extends State<Camera> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Container(
+          SizedBox(
             width: 390,
             height: 390,
             // decoration: BoxDecoration(
